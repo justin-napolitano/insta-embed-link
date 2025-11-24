@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - url extraction
   - instagram post url
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post describes a Bash script automating the conversion of Instagram post URLs into embed
+  links, fitting well within the Automation category that covers scripts for automating workflows.
+  The emphasis on a command-line tool and regex extraction aligns with automation of content
+  publishing tasks.
 ---
 
 # Technical Overview: insta-embed-link
@@ -65,3 +72,4 @@ The challenge lies in reliably extracting the `POST_ID` segment from the URL, wh
 - Packaging as a command-line utility with installation scripts and documentation.
 
 In summary, this project provides a minimal, practical tool for generating Instagram embed links from standard post URLs. Its simplicity ensures ease of use and integration, while leaving room for future enhancement based on user needs or environment constraints.
+
