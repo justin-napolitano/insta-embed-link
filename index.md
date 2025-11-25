@@ -1,32 +1,37 @@
 ---
 slug: github-insta-embed-link
-title: Bash Script to Convert Instagram Post URLs into Embed Links
+title: Automate Instagram Embed Link Generation with Bash Script
 repo: justin-napolitano/insta-embed-link
 githubUrl: https://github.com/justin-napolitano/insta-embed-link
 generatedAt: '2025-11-23T09:08:47.426974Z'
 source: github-auto
 summary: >-
-  A Bash script that extracts Instagram post IDs from URLs and generates corresponding embed links
-  with captions using regex.
+  This guide covers a Bash script that converts Instagram post URLs into embed
+  links for easy integration on external sites.
 tags:
   - bash
   - instagram
   - url-parsing
   - embed-links
   - regex
-seoPrimaryKeyword: instagram embed link
+  - embed links
+  - command-line tools
+seoPrimaryKeyword: instagram embed link generator
 seoSecondaryKeywords:
-  - bash script
-  - url extraction
-  - instagram post url
+  - bash script for instagram
+  - embed url automation
+  - instagram post url conversion
+  - command-line instagram tools
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post describes a Bash script automating the conversion of Instagram post URLs into embed
-  links, fitting well within the Automation category that covers scripts for automating workflows.
-  The emphasis on a command-line tool and regex extraction aligns with automation of content
-  publishing tasks.
+  The post describes a Bash script automating the conversion of Instagram post
+  URLs into embed links, fitting well within the Automation category that covers
+  scripts for automating workflows. The emphasis on a command-line tool and
+  regex extraction aligns with automation of content publishing tasks.
+kind: project
+id: github-insta-embed-link
 ---
 
 # Technical Overview: insta-embed-link
