@@ -1,26 +1,28 @@
 ---
 slug: github-insta-embed-link
 id: github-insta-embed-link
-title: Generate Instagram Embed Links with a Simple Bash Script
+title: Generate Instagram Embed Links with a Simple Shell Script
 repo: justin-napolitano/insta-embed-link
 githubUrl: https://github.com/justin-napolitano/insta-embed-link
 generatedAt: '2025-11-24T21:35:12.329Z'
 source: github-auto
 summary: >-
   A shell script that extracts Instagram post IDs and generates embed links with
-  captions from standard URLs.
+  captions from standard Instagram URLs.
 tags:
   - bash
   - instagram
   - shell scripting
   - command-line tools
   - unix utilities
+  - embed links
 seoPrimaryKeyword: instagram embed link generator
 seoSecondaryKeywords:
   - bash script for instagram
-  - embed links from instagram
-  - instagram post URL parser
-  - command-line instagram tool
+  - generate embed links
+  - instagram post URL
+  - shell script usage
+  - unix grep
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
