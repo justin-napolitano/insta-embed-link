@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/insta-embed-link
 generatedAt: '2025-11-24T21:35:12.329Z'
 source: github-auto
 summary: >-
-  A shell script that extracts Instagram post IDs and generates embed links with
-  captions from standard Instagram URLs.
+  A shell script that extracts Instagram post IDs and generates embed links with captions from
+  standard Instagram URLs.
 tags:
   - bash
   - instagram
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - shell script usage
   - unix grep
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -93,3 +93,4 @@ https://www.instagram.com/p/POST_ID/embed/captioned/
 ---
 
 *Note: This project assumes input URLs follow the standard Instagram post URL format `https://www.instagram.com/p/POST_ID/`.*
+
